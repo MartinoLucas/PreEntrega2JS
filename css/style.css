@@ -1,0 +1,10 @@
+*{
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 20px;
+    background-color: bisque;
+}
+
+div{
+    border-radius: 2px;
+    border: solid 1px;
+}
